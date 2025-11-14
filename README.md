@@ -1,4 +1,4 @@
-# Ceagesp - Conjunto de dados brutos sobre a comercialização de produtos no maior entreposto da América Latina, a CEAGESP
+# Um Conjunto de dados brutos sobre a comercialização de produtos no maior entreposto da América Latina, a CEAGESP
 
 <img width="756" height="428" alt="image" src="https://github.com/user-attachments/assets/bf802c33-d8e1-4e24-957a-ac6df5f6c5ee" />
 
