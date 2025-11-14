@@ -1,0 +1,27 @@
+Categoria,Produto,Variedade,Observacao,Quantidade_Centenas,Mes_de_Pico
+FRUTAS,Abacate,Breda,,35,Março
+FRUTAS,Abacate,Fortuna,,28,Maio
+FRUTAS,Abacate,Quintal,,15,Julho
+FRUTAS,Abacaxi,Havaí,,60,Dezembro
+FRUTAS,Abacaxi,Pérola,,45,Janeiro
+FRUTAS,Acerola,,,12,Novembro
+FRUTAS,Banana,Nanica,,150,O ano todo
+FRUTAS,Banana,Prata,,180,O ano todo
+FRUTAS,Mamão,Formosa,,85,Maio
+FRUTAS,Mamão,Papaia (Havaí),,70,Setembro
+LEGUMES,Abóbora,Japonesa (Cabotiá),,40,Junho
+LEGUMES,Abobrinha,Brasileira,,55,Fevereiro
+LEGUMES,Abobrinha,Italiana,,48,Outubro
+LEGUMES,Batata Doce,Rosada,,75,Abril
+LEGUMES,Cenoura,,,110,O ano todo
+LEGUMES,Chuchu,,,30,O ano todo
+VERDURAS,Alface,Americana,,90,O ano todo
+VERDURAS,Alface,Crespa,,130,O ano todo
+VERDURAS,Brócolos,Ramoso,,38,Julho
+VERDURAS,Couve,Manteiga,,42,Junho
+DIVERSOS,Alho,,,95,Setembro
+DIVERSOS,Cebola,,,160,O ano todo
+DIVERSOS,Ovo,,,200,O ano todo
+DIVERSOS,Batata,Monalisa (para cozinhar/fritar),,300,O ano todo
+ORGÂNICOS,Tomate,Cereja,,25,Março
+PESCADOS,Sardinha,,,50,Dezembro
