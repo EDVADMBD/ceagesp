@@ -65,7 +65,7 @@ O projeto finalizado oferece um panorama detalhado da dinâmica do mercado na CE
 Para visualizar o projeto click no link:
 https://github.com/EDVADMBD/ceagesp/blob/main/Ceagesp_.ipynb
 
-Expansão do projeto por consultas de querys em SQL e em #phyton# :
+Expansão do projeto por consultas de querys no google cloud (GCP) em SQL e em #phyton# :
 
 https://github.com/EDVADMBD/ceagesp/blob/main/Produtos_com_maior_disperdicio.ipynb
 
