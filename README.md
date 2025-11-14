@@ -1,4 +1,4 @@
-# ceagesp
+                                        # ceagesp
 
 <img width="756" height="428" alt="image" src="https://github.com/user-attachments/assets/bf802c33-d8e1-4e24-957a-ac6df5f6c5ee" />
 
@@ -56,6 +56,8 @@ Temperos Essenciais: A Cebola (160 centenas) é constante, e o Alho (95 centenas
 Especiais: O Tomate Cereja na categoria ORGÂNICOS tem pico em Março (25 centenas).
 
 Pescado Sazonal: A Sardinha (50 centenas) tem pico em Dezembro, um dado relevante para o planejamento de consumo em época festiva.
+
+Taxa variável de desperdício por item 
 
 📈 Conclusão: Um Mosaico de Oferta
 O projeto finalizado oferece um panorama detalhado da dinâmica do mercado na CEAGESP. Ele não apenas fornece volumes e categorias, mas, crucialmente, destaca os Meses de Pico, servindo como um guia prático para otimizar compras e aproveitar a máxima qualidade e abundância de cada alimento.
