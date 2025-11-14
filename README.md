@@ -61,3 +61,9 @@ Taxa variável de desperdício por item
 
 📈 Conclusão: Um Mosaico de Oferta
 O projeto finalizado oferece um panorama detalhado da dinâmica do mercado na CEAGESP. Ele não apenas fornece volumes e categorias, mas, crucialmente, destaca os Meses de Pico, servindo como um guia prático para otimizar compras e aproveitar a máxima qualidade e abundância de cada alimento.
+
+Para visualizar o projeto click no link:
+https://github.com/EDVADMBD/ceagesp/blob/main/Ceagesp_.ipynb
+
+Expansão do projeto por consultas de querys em SQL e em phyton :
+
